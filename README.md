@@ -1,22 +1,22 @@
 # Distributed Systems Checklist
 
 ## Introduction to Distributed Systems
-- [ ] Definition and Characteristics
-- [ ] Benefits and Challenges
-- [ ] Types of Distributed Systems
+- [x] Definition and Characteristics
+- [x] Benefits and Challenges
+- [x] Types of Distributed Systems
 
 ## Distributed System Architectures
-- [ ] Client-Server Model
-- [ ] Peer-to-Peer Model
-- [ ] Microservices Architecture
-- [ ] Service-Oriented Architecture (SOA)
+- [x] Client-Server Model
+- [x] Peer-to-Peer Model
+- [x] Microservices Architecture
+- [x] Service-Oriented Architecture (SOA)
 
 ## Communication in Distributed Systems
-- [ ] Synchronous vs. Asynchronous Communication
-- [ ] Remote Procedure Calls (RPC)
-- [ ] Message Passing and Message Queues
-- [ ] Publish-Subscribe Systems
-- [ ] HTTP/HTTPS, gRPC, WebSockets
+- [x] Synchronous vs. Asynchronous Communication
+- [x] Remote Procedure Calls (RPC)
+- [x] Message Passing and Message Queues
+- [x] Publish-Subscribe Systems
+- [x] HTTP/HTTPS, gRPC, WebSockets
 
 ## Concurrency and Parallelism
 - [ ] Concurrency Control
